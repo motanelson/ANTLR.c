@@ -1,2 +1,2 @@
 # ANTLR.c
-c code code to c compiler
+all kind of code to  compilers
